@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Montserrat:wght@700&display=swap");
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Abril Fatface";
+}
+
+p,
+span,
+small {
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  background-color: rgb(92, 153, 172);
+}
+
+h1 {
+  margin-top: 100px;
+}
+
+.input {
+  padding: 1rem 1rem;
+  width: 30%;
+  height: 5vh;
+  background-color: #fffbeb;
+  text-align: center;
+  font-weight: bold;
+  border: 3px solid black;
+  margin-top: 3rem;
+  margin-bottom: 30px;
+  font-size: 2rem;
+}
+
+.p {
+  font-weight: bold;
+  text-align: center;
+  font-size: 1rem;
+}
+
+h3 {
+  padding: 1rem 1rem;
+}
+
+.output {
+  background-color: #fffbeb;
+  margin: auto;
+  width: 30%;
+  height: 10vh;
+  padding: 1rem 1rem;
+  font-weight: bold;
+  font-size: 1.2rem;
+  border: 3px solid black;
+}
